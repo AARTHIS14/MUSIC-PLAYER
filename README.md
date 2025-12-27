@@ -26,15 +26,7 @@ It focuses on **clean layout, color harmony, and beginner-friendly code**.
 * **CSS3** – Styling, layout, gradients, and effects
 
 ---
-
-## Project Structure
-
-```
-Music-Player-UI/
-│
-├── index.html
-└── README.md
-
-
 ## MUSIC PLAYER UI
-<img width="1908" height="878" alt="image" src="https://github.com/user-attachments/assets/36b9abda-f2cf-4a6b-b166-3491879d03e4" />
+
+<img width="1908" height="878" alt="image" src="https://github.com/user-attachments/assets/40575be2-12e1-444f-b9a6-91c77b8f8e2f" />
+
